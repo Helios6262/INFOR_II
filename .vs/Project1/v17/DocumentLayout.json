@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\helio\\source\\repos\\INFOR_II\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D8E9FE-9296-4548-AC11-D87D1E85FB8B}|Project1\\Project1.vcxproj|C:\\Users\\helio\\source\\repos\\INFOR_II\\Project1\\Ejer1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D0D8E9FE-9296-4548-AC11-D87D1E85FB8B}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Ejer1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejer1.cpp",
+              "DocumentMoniker": "C:\\Users\\helio\\source\\repos\\INFOR_II\\Project1\\Ejer1.cpp",
+              "RelativeDocumentMoniker": "Project1\\Ejer1.cpp",
+              "ToolTip": "C:\\Users\\helio\\source\\repos\\INFOR_II\\Project1\\Ejer1.cpp*",
+              "RelativeToolTip": "Project1\\Ejer1.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-09T14:44:56.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
