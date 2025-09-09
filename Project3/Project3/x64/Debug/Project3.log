@@ -1,0 +1,3 @@
+﻿  exer3.cpp
+C:\Users\helio\source\repos\INFOR_II\Project3\Project3\exer3.cpp(4,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project3.vcxproj -> C:\Users\helio\source\repos\INFOR_II\Project3\x64\Debug\Project3.exe
