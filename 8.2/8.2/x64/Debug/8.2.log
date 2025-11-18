@@ -1,0 +1,5 @@
+﻿  8.2.cpp
+C:\Users\hestevezoro\source\repos\8.2\8.2\8.2.cpp(27,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  student.cpp
+  Generating Code...
+  8.2.vcxproj -> C:\Users\hestevezoro\source\repos\8.2\x64\Debug\8.2.exe
