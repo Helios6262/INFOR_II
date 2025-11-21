@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\hestevezoro\source\repos\9.2\9.2\main.cpp(38,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  9.2.vcxproj -> C:\Users\hestevezoro\source\repos\9.2\x64\Debug\9.2.exe

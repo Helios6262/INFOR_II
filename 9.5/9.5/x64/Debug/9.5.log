@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\hestevezoro\source\repos\9.5\9.5\Source.cpp(52,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hestevezoro\source\repos\9.5\9.5\Source.cpp(64,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  9.5.vcxproj -> C:\Users\hestevezoro\source\repos\9.5\x64\Debug\9.5.exe
