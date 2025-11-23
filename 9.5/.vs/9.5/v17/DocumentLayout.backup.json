@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hestevezoro\\source\\repos\\9.5\\",
+  "WorkspaceRootPath": "C:\\Users\\hestevezoro\\source\\repos\\Helios6262\\INFOR_II\\9.5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B78A0C8-C44D-4103-9A4D-A08EF4E0FEC6}|9.5\\9.5.vcxproj|C:\\Users\\hestevezoro\\source\\repos\\9.5\\9.5\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2B78A0C8-C44D-4103-9A4D-A08EF4E0FEC6}|9.5\\9.5.vcxproj|C:\\Users\\hestevezoro\\source\\repos\\Helios6262\\INFOR_II\\9.5\\9.5\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2B78A0C8-C44D-4103-9A4D-A08EF4E0FEC6}|9.5\\9.5.vcxproj|solutionrelative:9.5\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\hestevezoro\\source\\repos\\9.5\\9.5\\Source.cpp",
+              "DocumentMoniker": "C:\\Users\\hestevezoro\\source\\repos\\Helios6262\\INFOR_II\\9.5\\9.5\\Source.cpp",
               "RelativeDocumentMoniker": "9.5\\Source.cpp",
-              "ToolTip": "C:\\Users\\hestevezoro\\source\\repos\\9.5\\9.5\\Source.cpp",
+              "ToolTip": "C:\\Users\\hestevezoro\\source\\repos\\Helios6262\\INFOR_II\\9.5\\9.5\\Source.cpp",
               "RelativeToolTip": "9.5\\Source.cpp",
-              "ViewState": "AgIAACUAAAAAAAAAAAAUwDAAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwHMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-21T18:36:57.497Z",
               "EditorCaption": ""
