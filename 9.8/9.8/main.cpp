@@ -3,7 +3,7 @@ using namespace std;
 double root(double n)
 {
 	if (n < 0) {
-		throw 1;
+		throw exception();
 	};
 	return sqrt(n);
 } //function root with exception handling
@@ -16,6 +16,6 @@ int main()
 		root(number);
 	}
 	catch (...) {
-		cout << "Error: " <<  endl;
+		cerr << "Negative vales not permitted" << endl;
 	}
 }

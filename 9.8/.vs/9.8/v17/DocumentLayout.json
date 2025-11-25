@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hestevezoro\\source\\repos\\9.8\\",
+  "WorkspaceRootPath": "C:\\Users\\hestevezoro\\source\\repos\\Helios6262\\INFOR_II\\9.8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02B124B7-86FE-49A1-B406-D9A792BC86A4}|9.8\\9.8.vcxproj|C:\\Users\\hestevezoro\\source\\repos\\9.8\\9.8\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{02B124B7-86FE-49A1-B406-D9A792BC86A4}|9.8\\9.8.vcxproj|C:\\Users\\hestevezoro\\source\\repos\\Helios6262\\INFOR_II\\9.8\\9.8\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{02B124B7-86FE-49A1-B406-D9A792BC86A4}|9.8\\9.8.vcxproj|solutionrelative:9.8\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,21 +14,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\hestevezoro\\source\\repos\\9.8\\9.8\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\hestevezoro\\source\\repos\\Helios6262\\INFOR_II\\9.8\\9.8\\main.cpp",
               "RelativeDocumentMoniker": "9.8\\main.cpp",
-              "ToolTip": "C:\\Users\\hestevezoro\\source\\repos\\9.8\\9.8\\main.cpp",
+              "ToolTip": "C:\\Users\\hestevezoro\\source\\repos\\Helios6262\\INFOR_II\\9.8\\9.8\\main.cpp",
               "RelativeToolTip": "9.8\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-25T11:42:17.914Z",
               "EditorCaption": ""

@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\hestevezoro\source\repos\Project1\Project1\main.cpp(6,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\hestevezoro\source\repos\Project1\Project1\main.cpp(14,16): error C2228: left of '.GetName' must have class/struct/union
