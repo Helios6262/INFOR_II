@@ -18,7 +18,7 @@ public:
 class Manager : public employee
 {
 public:
-	Manager(char* n = (char*)"") {strcpy_s(name,n); cout << "Manager constructor\n";
+	Manager(char* n = (char*)""): employee(n) { cout << "Manager constructor\n";
 	}
 	void print_position() { cout << " is a Manager" << endl; }
 };
@@ -26,7 +26,7 @@ public:
 class Worker : public employee
 {
 public:
-	Worker(char* n = (char*)"") { strcpy_s(name, n); cout << "Worker constructor\n";
+	Worker(char* n = (char*)""): employee(n) { cout << "Worker constructor\n";
 	}
 	void print_position() { cout << " is a Worker" << endl; }
 };
@@ -34,7 +34,7 @@ public:
 class Officer : public Worker
 {
 public:
-	Officer(char* n = (char*)"") { strcpy_s(name, n); cout << "Officer constructor\n";
+	Officer(char* n = (char*)""):Worker(n) { cout << "Officer constructor\n";
 	}
 	void print_position() { cout << " is an Officer" << endl;
 	}
@@ -42,8 +42,8 @@ public:
 class Technician : public Officer
 {
 public:
-	Technician(char* n = (char*)"") {
-		strcpy_s(name, n); cout << "Technician constructor\n";
+	Technician(char* n = (char*)""):Officer(n) {
+	cout << "Technician constructor\n";
 	}
 	void print_position() {cout << " is a Technician" << endl;
 	}
