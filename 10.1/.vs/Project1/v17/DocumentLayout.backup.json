@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\hestevezoro\\source\\repos\\Helios6262\\INFOR_II\\10.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FF025B0-0DFB-4FA1-B17F-AC973380693C}|Project1\\Project1.vcxproj|C:\\Users\\hestevezoro\\source\\repos\\Helios6262\\INFOR_II\\10.1\\Project1\\Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FF025B0-0DFB-4FA1-B17F-AC973380693C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7FF025B0-0DFB-4FA1-B17F-AC973380693C}|Project1\\Project1.vcxproj|C:\\Users\\hestevezoro\\source\\repos\\Helios6262\\INFOR_II\\10.1\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7FF025B0-0DFB-4FA1-B17F-AC973380693C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF025B0-0DFB-4FA1-B17F-AC973380693C}|Project1\\Project1.vcxproj|C:\\Users\\hestevezoro\\source\\repos\\Helios6262\\INFOR_II\\10.1\\Project1\\Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FF025B0-0DFB-4FA1-B17F-AC973380693C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\hestevezoro\\source\\repos\\Helios6262\\INFOR_II\\10.1\\Project1\\main.cpp",
               "RelativeDocumentMoniker": "Project1\\main.cpp",
               "ToolTip": "C:\\Users\\hestevezoro\\source\\repos\\Helios6262\\INFOR_II\\10.1\\Project1\\main.cpp",
               "RelativeToolTip": "Project1\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-25T17:09:10.191Z",
               "IsPinned": true,
@@ -40,13 +40,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Employee.h",
               "DocumentMoniker": "C:\\Users\\hestevezoro\\source\\repos\\Helios6262\\INFOR_II\\10.1\\Project1\\employee.h",
               "RelativeDocumentMoniker": "Project1\\employee.h",
-              "ToolTip": "C:\\Users\\hestevezoro\\source\\repos\\Helios6262\\INFOR_II\\10.1\\Project1\\employee.h",
-              "RelativeToolTip": "Project1\\employee.h",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACwAAAAtAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\hestevezoro\\source\\repos\\Helios6262\\INFOR_II\\10.1\\Project1\\employee.h*",
+              "RelativeToolTip": "Project1\\employee.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-12-12T15:25:42.351Z",
               "EditorCaption": ""

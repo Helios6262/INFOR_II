@@ -1,0 +1,5 @@
+﻿  cuenta.cpp
+  main.cpp
+C:\Users\hestevezoro\source\repos\Examen 2024 problema 3\Examen 2024 problema 3\main.cpp(6,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Examen 2024 problema 3.vcxproj -> C:\Users\hestevezoro\source\repos\Examen 2024 problema 3\x64\Debug\Examen 2024 problema 3.exe
