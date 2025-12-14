@@ -13,7 +13,7 @@ protected:
 	double* saldo= new double[100]; //se almacenará la evolución del saldo de la cuenta según se vayan realizando movimientos
 	int cont=0; //en qué posición de dicho array “saldo” se encuentra actualmente.
 public:
-	cuenta(char* t = (char*)"", double i = 0) { interes_base = i, strcpy_s(titular, t), saldo[cont]=interes_base; }
+	cuenta(char* t = (char*)"", double i = 0) { interes_base = i, strcpy_s(titular, t), saldo[cont] = interes_base, cout << "constructor"; }
 	// añada el código necesario
 	~cuenta() { delete[] saldo; }
 	bool Gasto(double x) {
@@ -24,9 +24,28 @@ public:
 			cont++;
 			saldo[cont] = saldo[cont - 1] - x;
 			return 1;
-		};
+		}
 	}
-	void prt() { cout << titular << saldo[cont]; };
+	/*Tenga en cuenta que esta función debe comprobar si hay saldo en la cuenta de origen (se
+corresponde con el objeto que llama a la función)*/
+	bool transferencia(cuenta& c, double cant) {
+		if (Gasto(cant) == 1) { //el cont ya hizo + 1
+			c.cont++;
+			c.saldo[c.cont] = c.saldo[c.cont - 1] + cant;
+			return 1;
+		}
+		else return 0;
+	}
+	void prt() { cout << "Titular: " << titular << " Saldo: " << saldo[cont] << endl; };
+	void historial(int num) {
+		if (num >= cont)
+		{
+			num = cont;
+		}
+		for(int i=cont-num; i<=cont; i++) {
+			cout << i <<":    " << saldo[i] << endl;
+		}
+	}
 };
 class renta_mixta : public cuenta
 {

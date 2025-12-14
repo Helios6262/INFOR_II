@@ -1,5 +1,28 @@
 ﻿  cuenta.cpp
+C:\Users\helio\source\repos\Helios6262\INFOR_II\Examen 2024 problema 3\Examen 2024 problema 3\cuenta.h(55,81): error C2143: syntax error: missing ';' before '}'
+  (compiling source file 'cuenta.cpp')
+  
+C:\Users\helio\source\repos\Helios6262\INFOR_II\Examen 2024 problema 3\Examen 2024 problema 3\cuenta.h(56,2): error C2628: 'renta_mixta' followed by 'bool' is illegal (did you forget a ';'?)
+  (compiling source file 'cuenta.cpp')
+  
+C:\Users\helio\source\repos\Helios6262\INFOR_II\Examen 2024 problema 3\Examen 2024 problema 3\cuenta.h(57,1): error C2059: syntax error: '}'
+  (compiling source file 'cuenta.cpp')
+  
+C:\Users\helio\source\repos\Helios6262\INFOR_II\Examen 2024 problema 3\Examen 2024 problema 3\cuenta.h(57,1): error C2143: syntax error: missing ';' before '}'
+  (compiling source file 'cuenta.cpp')
+  
   main.cpp
-C:\Users\hestevezoro\source\repos\Examen 2024 problema 3\Examen 2024 problema 3\main.cpp(6,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\helio\source\repos\Helios6262\INFOR_II\Examen 2024 problema 3\Examen 2024 problema 3\cuenta.h(55,81): error C2143: syntax error: missing ';' before '}'
+  (compiling source file 'main.cpp')
+  
+C:\Users\helio\source\repos\Helios6262\INFOR_II\Examen 2024 problema 3\Examen 2024 problema 3\cuenta.h(56,2): error C2628: 'renta_mixta' followed by 'bool' is illegal (did you forget a ';'?)
+  (compiling source file 'main.cpp')
+  
+C:\Users\helio\source\repos\Helios6262\INFOR_II\Examen 2024 problema 3\Examen 2024 problema 3\cuenta.h(57,1): error C2059: syntax error: '}'
+  (compiling source file 'main.cpp')
+  
+C:\Users\helio\source\repos\Helios6262\INFOR_II\Examen 2024 problema 3\Examen 2024 problema 3\cuenta.h(57,1): error C2143: syntax error: missing ';' before '}'
+  (compiling source file 'main.cpp')
+  
+C:\Users\helio\source\repos\Helios6262\INFOR_II\Examen 2024 problema 3\Examen 2024 problema 3\main.cpp(6,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
   Generating Code...
-  Examen 2024 problema 3.vcxproj -> C:\Users\hestevezoro\source\repos\Examen 2024 problema 3\x64\Debug\Examen 2024 problema 3.exe
