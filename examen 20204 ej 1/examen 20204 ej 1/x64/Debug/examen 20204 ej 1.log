@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\hestevezoro\Desktop\examen 20204 ej 1\examen 20204 ej 1\main.cpp(22,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\hestevezoro\Desktop\examen 20204 ej 1\examen 20204 ej 1\main.cpp(68,49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  examen 20204 ej 1.vcxproj -> C:\Users\hestevezoro\Desktop\examen 20204 ej 1\x64\Debug\examen 20204 ej 1.exe
